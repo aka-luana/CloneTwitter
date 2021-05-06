@@ -68,7 +68,7 @@ export const BottomMenu = styled.div`
     left: 0;
     z-index: 2;
 
-    background: var(-primary);
+    background: var(--primary);
     width: 100%;
     border-top: 1px solid var(--outline);
 
