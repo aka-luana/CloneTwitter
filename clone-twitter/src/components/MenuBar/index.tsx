@@ -58,7 +58,7 @@ const MenuBar: React.FC = () => {
         <Avatar />
 
         <ProfileData>
-          <strong>Luana Sales</strong>
+          <strong>lua, luana</strong>
           <span>@aka_luana</span>
         </ProfileData>
 
